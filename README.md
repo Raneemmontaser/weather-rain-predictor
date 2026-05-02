@@ -28,7 +28,7 @@ cd YOUR_REPO_NAME
 
 ### 2. Install dependencies
 ```bash
-pip install streamlit scikit-learn numpy==1.26.4
+pip install -r requirements.txt
 ```
 
 ### 3. Run the app
